@@ -3,16 +3,8 @@ using Newtonsoft.Json;
 using System;
 using System.IO;
 
-class Program
+partial class Program
 {
-    // Define a class to match the JSON structure
-    public class User
-    {
-        public string Name { get; set; }
-        public int Age { get; set; }
-        public string City { get; set; }
-    }
-
     static void Main(string[] args)
     {
         // Path to the local JSON file
