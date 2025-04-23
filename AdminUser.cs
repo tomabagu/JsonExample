@@ -8,6 +8,6 @@ namespace JsonExample
 {
     public class AdminUser : User
     {
-        public string Role { get; set; } = "Admin";
+        public string Role { get; set; }
     }
 }

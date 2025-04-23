@@ -8,6 +8,6 @@ namespace JsonExample
 {
     internal class RegularUser : User
     {
-        public string Role { get; set; } = "User";
+        public string Role { get; set; }
     }
 }

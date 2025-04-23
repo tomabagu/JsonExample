@@ -1,0 +1,14 @@
+[
+  {
+    "Name": "John Doe",
+    "Age": 30,
+    "City": "New York",
+    "Role": "User"
+  },
+  {
+    "Name": "Mei Tanaka",
+    "Age": 32,
+    "City": "San Francisco",
+    "Role": "User"
+  }
+]
